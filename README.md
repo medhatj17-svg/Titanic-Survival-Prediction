@@ -86,6 +86,7 @@ Models were evaluated using:
 - Classification Report
 
 ## 📈 Results
+![Model Comparison](model_comparison.png)
 
 ### Validation Results
 
