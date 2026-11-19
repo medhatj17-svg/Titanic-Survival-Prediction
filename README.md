@@ -133,6 +133,29 @@ Random Forest achieved the higher validation F1-score and was selected for gener
 6. Generate predictions for the official Kaggle test dataset.
 
 **Note:** The notebook currently uses Kaggle dataset paths. Update the file paths if running in another environment.
+## 📊 Model Performance Comparison
+
+Two machine learning models were implemented and evaluated:
+
+- Random Forest Classifier
+- Support Vector Machine (SVM)
+
+### Validation and Holdout Results
+
+| Metric | Random Forest | SVM |
+|---|---:|---:|
+| Validation Accuracy | 84.83% | 80.34% |
+| Validation Precision | 85.96% | 75.38% |
+| Validation Recall | 72.06% | 72.06% |
+| Validation F1-score | 78.40% | 73.68% |
+| Holdout Accuracy | 82.68% | 81.56% |
+| Holdout F1-score | 75.97% | 75.19% |
+
+### Conclusion
+
+Random Forest achieved the best overall performance, outperforming SVM in validation accuracy, precision, F1-score, and holdout metrics.
+
+Therefore, Random Forest was selected as the better-performing model for this project.
 
 ## 📌 Project Notes
 
