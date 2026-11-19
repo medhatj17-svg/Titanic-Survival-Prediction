@@ -112,7 +112,7 @@ Random Forest achieved the higher validation F1-score and was selected for gener
 
 ## 📁 Repository Contents
 
-- `notebook584beebc6a-2.ipynb` — Complete project notebook.
+- `Titanic_Survival_Prediction.ipynb.` — Complete project notebook.
 
 ## 🛠️ Technologies & Libraries
 
